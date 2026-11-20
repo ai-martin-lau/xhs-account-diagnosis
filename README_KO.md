@@ -8,7 +8,7 @@
 
 파일을 읽고 명령을 실행할 수 있는 AI 커맨드라인 도구라면 모두 쓸 수 있습니다: Claude Code, Codex CLI, Gemini CLI
 
-[보고서 샘플](https://xhs.addsum.top/samples) · [제작: Addsum](https://addsum.top/)
+[제작: Addsum](https://addsum.top/)
 
 </div>
 
@@ -36,8 +36,6 @@
 8. 90일 실행 계획: 3단계별 실행 목록과 판단 기준, 마일스톤 표
 9. 리스크: 플랫폼·운영·마인드 세 가지 리스크와 네 가지 비상 체크리스트
 10. 부록: 데이터 관리표, 도구 추천, 제목 모음, 자주 묻는 질문
-
-실제 계정 세 곳의 보고서 발췌를 [샘플 페이지](https://xhs.addsum.top/samples)에서 볼 수 있습니다(같은 방법론으로 생성).
 
 ## 방법론
 

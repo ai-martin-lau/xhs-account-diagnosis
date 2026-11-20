@@ -8,7 +8,7 @@
 
 Funciona con cualquier agente de IA de línea de comandos que pueda leer archivos y ejecutar comandos: Claude Code, Codex CLI, Gemini CLI
 
-[Informes de ejemplo](https://xhs.addsum.top/samples) · [Hecho por Addsum](https://addsum.top/)
+[Hecho por Addsum](https://addsum.top/)
 
 </div>
 
@@ -36,8 +36,6 @@ Diez partes, entre 15.000 y 25.000 caracteres chinos:
 8. Plan de 90 días: tres fases con listas de acciones y criterios de control, más una tabla de hitos
 9. Riesgos: de plataforma, operativos y de actitud, con cuatro listas de contingencia
 10. Anexo: hojas de seguimiento, herramientas, un banco de títulos y preguntas frecuentes
-
-En la [página de ejemplos](https://xhs.addsum.top/samples) hay extractos de tres cuentas reales (misma metodología).
 
 ## Metodología
 
