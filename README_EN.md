@@ -8,7 +8,7 @@
 
 Works with any AI command-line agent that can read files and run commands: Claude Code, Codex CLI, Gemini CLI
 
-[Sample reports](https://xhs.addsum.top/samples) · [Made by Addsum](https://addsum.top/)
+[Made by Addsum](https://addsum.top/)
 
 </div>
 
@@ -36,8 +36,6 @@ Ten parts, roughly 15,000 to 25,000 Chinese characters:
 8. 90-day plan: three phases with action lists and checkpoints, plus a milestone table
 9. Risks: platform, operational and mindset risks, with four contingency checklists
 10. Appendix: tracking sheets, tools, a headline bank, FAQ
-
-See excerpts from three real accounts on the [sample page](https://xhs.addsum.top/samples) (same methodology).
 
 ## Methodology
 
