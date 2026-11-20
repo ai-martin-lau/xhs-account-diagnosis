@@ -8,7 +8,7 @@
 
 能读文件、能跑命令的 AI 命令行工具都能用：Claude Code、Codex CLI、Gemini CLI
 
-[报告样例](https://xhs.addsum.top/samples) · [出品：增和科技](https://addsum.top/cn/)
+[出品：增和科技](https://addsum.top/cn/)
 
 </div>
 
@@ -34,8 +34,6 @@
 8. 90 天执行计划：三个阶段各自的动作清单和判断标准，加里程碑验收表
 9. 风险预警：平台、运营、心态三类风险和四种应急预案
 10. 附录：数据监控表、工具推荐、标题库、常见问题
-
-可以先看三份真实账号的[报告样例](https://xhs.addsum.top/samples)（同一套方法论生成，节选结论部分）。
 
 ## 方法论
 
